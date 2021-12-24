@@ -1,6 +1,6 @@
 🤔 **Who Am I?**
 
-HI! I'm Ashlee J, a hobbyist coder learning C++ with the help of the Arduboy community members. I live in Australia (Yes we have giant spiders) and I enjoy creative projects that I hope to use in a future job.
+Hi! I'm Ashlee J, a hobbyist coder learning C++ with the help of some of the Arduboy community members. I live in Australia (Yes we have giant spiders) and I enjoy creative projects that I hope to use in a future job.
 
 💼 **Aspirations!**
 
