@@ -5,8 +5,3 @@ Hi! I'm Ashlee J, a hobbyist coder learning C++ with the help of some of the Ard
 💼 **Aspirations!**
 
 I aspire to be a Mechatronics (Robotics) Engineer and work in a industry that is focused to help people, whether that be the medical, educational, or any other type of industry. I want to do something to contribute to the world 🌏!
-
-🤖 **Statistics About My Profile! *beep boop***
-
-![](https://github.com/Ashteroide/Github-Profile-Stats/blob/master/generated/overview.svg)
-![](https://github.com/username/Github-Profile-Stats/blob/master/generated/languages.svg)
